@@ -4,13 +4,12 @@ I believe that happiness in your professional life can be ensured by doing your 
 
 Freedom, Respect, Solidarity, Commitment.
 
+- 🔭 I’m currently working in QMENTA Inc.
+- 🌱 I’m currently learning, and hopefully master some day, Kubernetes.
+
+<a href="https://gitroll.io/profile/u0jJ51OIDEMakT31yv6Sk9zWJbeD3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u0jJ51OIDEMakT31yv6Sk9zWJbeD3" alt="GitRoll Profile Badge"/></a>
+
 <!--
-**hfoffani/hfoffani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
